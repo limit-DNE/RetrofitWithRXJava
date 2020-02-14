@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit with RXJava</string>
+    <string name="image_description">Official poster image of the listed movie</string>
+</resources>
